@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits, EmbedBuilder, ActionRowBuilder, StringSelectM
 const axios = require('axios');
 const express = require('express');
 const API_KEY = '93c44873216d4cef9d95f2542d9b686f'; // Reemplaza con tu API Key de BlockCypher
-const DISCORD_TOKEN = 'MTM0NDM0MzEwOTM1MzYwMzE5Ng.G9lOaF.pAzUheNtn-qclBX6lmRvrVrZtsr6sCcpoR34gY'; // Reemplaza con tu token de bot de Discord
+const DISCORD_TOKEN = 'MTM0NDM0MzEwOTM1MzYwMzE5Ng.Gu0t9M.uIVgBqqUsaE3ADRIvuL_zh_Si7g6rxRvJ48IeQ'; // Reemplaza con tu token de bot de Discord
 const BLOCKCYPHER_WEBHOOK_URL = 'TU_URL_WEBHOOK'; // URL pública para recibir notificaciones de BlockCypher
 
 const BTC_ADDRESS = '19W8XpD1rhrL11LM4XNKvJzBsfJcMXbNa6';
